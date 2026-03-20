@@ -152,6 +152,7 @@ func InterfaceToStruct() {
 	structInstance, ok := catInterface.(CatStruct) // works, may panic
 	if !ok {
 		// handle wrong type
+		fmt.Println(structInstance)
 	}
 }
 
