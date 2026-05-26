@@ -17,7 +17,7 @@ func Work(x int64) int64 {
 func SumSequential(nums []int64) int64 {
 	total := int64(0)
 	for _, n := range nums {
-		total = Work(n)
+		total += Work(n)
 	}
 
 	return total
