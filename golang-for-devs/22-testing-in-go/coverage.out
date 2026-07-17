@@ -1,0 +1,8 @@
+mode: set
+testingvideo/02-mocks/mocks.go:13.43,14.48 1 1
+testingvideo/02-mocks/mocks.go:14.48,16.3 1 0
+testingvideo/02-mocks/mocks.go:18.2,18.12 1 1
+testingvideo/01-testing-basics/math.go:7.24,9.2 1 1
+testingvideo/01-testing-basics/math.go:11.24,12.11 1 1
+testingvideo/01-testing-basics/math.go:12.11,14.3 1 1
+testingvideo/01-testing-basics/math.go:16.2,16.10 1 1
